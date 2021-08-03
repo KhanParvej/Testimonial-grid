@@ -6,9 +6,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: https://khanparvej.github.io/Testimonial-grid/
+- Live Site URL: https://github.com/KhanParvej/Testimonial-grid/
 
 
 ### Built with
